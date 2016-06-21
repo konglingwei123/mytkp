@@ -1,0 +1,10 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE>
+<html>
+	<head>
+		<title>reg模板</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		index模板成功访问-----index
+	</body>
+</html>

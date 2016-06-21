@@ -1,0 +1,234 @@
+[ 2016-06-16T10:48:31+08:00 ] 127.0.0.1 /mytkp/index.php/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载模块:Aaa
+
+[ 2016-06-16T10:49:02+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.015600s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:49:05+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:24+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:24+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:25+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:25+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:25+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:25+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.015600s ]
+INFO: [ app_init ] --END-- [ RunTime:0.046800s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:25+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:25+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:25+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:25+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:25+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:25+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:25+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.062400s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:25+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:25+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:25+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:25+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:26+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:26+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:26+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.015600s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:26+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:26+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:26+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.031200s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:26+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:26+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:26+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:26+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:26+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:26+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.031200s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:26+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:26+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:26+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:26+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:26+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:26+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-16T10:50:28+08:00 ] 127.0.0.1 /mytkp/index.php/index/aaa/ccc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
